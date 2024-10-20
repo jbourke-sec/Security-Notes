@@ -1,0 +1,5 @@
+**Exploit:** Privilege escalation exploits are quite common, and there is always a chance that the owner of a particular system didn't patch it in time.
+**SUID executables:** possible to
+execute commands with elevated privileges in the case of misconfigured SUID files.
+**Loose sudo permissions:** If the current user is allowed to execute any command using sudo without even a need to provide a password, it can be easily exploited
+**Brute forcing credentials:** While this approach is likely not applicable to mass infection malware, it is possible to get access to the hash of the required password (for example, the one that belongs to the root) and then either bruteforce it or use rainbow tables containing a huge amount of pre-computed pairs of passwords and their hashes in order to find a match.

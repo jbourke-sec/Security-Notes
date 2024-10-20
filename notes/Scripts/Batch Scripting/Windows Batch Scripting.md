@@ -1,0 +1,1 @@
+The code can be executed directly from the cmd.exe console interface or by creating a file with the .cmd or .bat extensions

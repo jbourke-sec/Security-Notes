@@ -1,0 +1,1 @@
+Replace the normal, legitimate application files or their shortcuts with a rootkit that ensures the malware is loaded and hidden

@@ -1,0 +1,1008 @@
+{
+  "main": {
+    "id": "ab02b59441f304c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "220a7b528bca7de7",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "28d1d96595769948",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kernel/EPROCESS and ETHREAD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EPROCESS and ETHREAD"
+            }
+          },
+          {
+            "id": "8520090390492f7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code Injection/Windows/Windows support DLL injection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Windows support DLL injection"
+            }
+          },
+          {
+            "id": "53948bd0aaa5d03c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Tools.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tools"
+            }
+          },
+          {
+            "id": "b67ea48437fa42a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architectures/Assembly calling conventions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assembly calling conventions"
+            }
+          },
+          {
+            "id": "3ef7fbb5df76e9b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "File,Memory Structures/Windows/PE Header structure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PE Header structure"
+            }
+          },
+          {
+            "id": "ad77d0fb739aff0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems/Windows/Static and Dynamic linking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Static and Dynamic linking"
+            }
+          },
+          {
+            "id": "3fd374b747006c31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Libraries/Libraries relevant to MA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Libraries relevant to MA"
+            }
+          },
+          {
+            "id": "776a3a6fe326e5ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Behavioural Patterns/Linux/Persistence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Persistence"
+            }
+          },
+          {
+            "id": "070f413136df8757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anti - Debugging/WIndows/Debugger Detection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Debugger Detection"
+            }
+          },
+          {
+            "id": "75e5b0a9af114850",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encryption/RC4 Encryption.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RC4 Encryption"
+            }
+          },
+          {
+            "id": "fff4993058bf7bfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assembly/Global Vs Local Variables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Global Vs Local Variables"
+            }
+          },
+          {
+            "id": "bfa34c469f169ade",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "File,Memory Structures/Windows/Data structures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data structures"
+            }
+          },
+          {
+            "id": "2459cf9e0c592476",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "File,Memory Structures/Windows/Process Loading.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Process Loading"
+            }
+          },
+          {
+            "id": "a1c9b5b4628decc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "File,Memory Structures/Windows/PE File loading.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PE File loading"
+            }
+          },
+          {
+            "id": "54c0822925725ebb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Tools.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tools"
+            }
+          },
+          {
+            "id": "8fb66a5a90aeb05a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dynamic analysis/Breakpoints.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Breakpoints"
+            }
+          },
+          {
+            "id": "17de7995c0456515",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dynamic analysis/Modifying program execution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modifying program execution"
+            }
+          },
+          {
+            "id": "efb596f82d752e7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems/Windows/Services.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Services"
+            }
+          },
+          {
+            "id": "77538b215ecf072c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Packing/Identifying a packed sample.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Identifying a packed sample"
+            }
+          },
+          {
+            "id": "e7422dca9d0999d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architectures/Assembly calling conventions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assembly calling conventions"
+            }
+          },
+          {
+            "id": "a01247dc947b64ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encryption/RC4 Encryption.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RC4 Encryption"
+            }
+          },
+          {
+            "id": "329f0e4365088a5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encryption/Cryptographic service provider.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cryptographic service provider"
+            }
+          },
+          {
+            "id": "6f7d2d476491ec40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encryption/Cryptographic service provider.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cryptographic service provider"
+            }
+          },
+          {
+            "id": "3e72b431395154df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encryption/Cryptographic service provider.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cryptographic service provider"
+            }
+          },
+          {
+            "id": "24c2ec1598eb47d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anti - Debugging/WIndows/Debugging code injection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Debugging code injection"
+            }
+          },
+          {
+            "id": "82d48b713eeade59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Tools.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tools"
+            }
+          },
+          {
+            "id": "70fc00c63d464cd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API Hooking/API Hooking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "API Hooking"
+            }
+          },
+          {
+            "id": "8bb5557cbf4fb223",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anti - Debugging/WIndows/Debugger Detection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Debugger Detection"
+            }
+          },
+          {
+            "id": "d7c1bb1f99a4b4ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Tools.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tools"
+            }
+          },
+          {
+            "id": "012c44674cf8e646",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anti - Debugging/WIndows/Debugger Detection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Debugger Detection"
+            }
+          },
+          {
+            "id": "6e024e33de12edbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anti - Debugging/WIndows/VM Detection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VM Detection"
+            }
+          },
+          {
+            "id": "d5fad4386e0b7ad9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "File,Memory Structures/Windows/Process Loading.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Process Loading"
+            }
+          },
+          {
+            "id": "d278f6e68365f5ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anti - Debugging/WIndows/Escaping the debugger.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Escaping the debugger"
+            }
+          },
+          {
+            "id": "746120887d7cf403",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems/Windows/Windows Infrastructure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Windows Infrastructure"
+            }
+          },
+          {
+            "id": "530c732ed68dcb7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kernel/User Mode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "User Mode"
+            }
+          },
+          {
+            "id": "06575f8f30ba079f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kernel/Kernel Mode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kernel Mode"
+            }
+          },
+          {
+            "id": "33d3625f27631532",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "File,Memory Structures/Windows/PE Header structure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PE Header structure"
+            }
+          },
+          {
+            "id": "b6ac1f73fda943b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Office/Office File structures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Office File structures"
+            }
+          },
+          {
+            "id": "538cc7bd439cb119",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Tools.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tools"
+            }
+          },
+          {
+            "id": "03c680e5f8fd4c7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Tools - Linux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tools - Linux"
+            }
+          },
+          {
+            "id": "80644bcba67f76a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Tools - Linux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tools - Linux"
+            }
+          },
+          {
+            "id": "6e14e151298dacd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Tools - Linux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tools - Linux"
+            }
+          },
+          {
+            "id": "c5b89962e11e5a4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rootkits/Windows/Potential Kernel Rootkits.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Potential Kernel Rootkits"
+            }
+          },
+          {
+            "id": "abd40bf8a11c7b52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kernel/EPROCESS and ETHREAD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EPROCESS and ETHREAD"
+            }
+          },
+          {
+            "id": "f94c04f3c4db9698",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kernel/Bypassing patchguard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bypassing patchguard"
+            }
+          },
+          {
+            "id": "dc9624692e5e1fe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Tools.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tools"
+            }
+          },
+          {
+            "id": "16e561dee97ea734",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "File,Memory Structures/Windows/Data structures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data structures"
+            }
+          },
+          {
+            "id": "eef7876c515a3cae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shellcode/Exploits.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exploits"
+            }
+          },
+          {
+            "id": "0c309ba722a53538",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shellcode/Linux Shellcode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux Shellcode"
+            }
+          },
+          {
+            "id": "42f27c914e247729",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kernel/Bypassing patchguard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bypassing patchguard"
+            }
+          },
+          {
+            "id": "7136d9a67ee2c2d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems/Windows/Data execution prevention.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data execution prevention"
+            }
+          },
+          {
+            "id": "51c378282e4f0002",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shellcode/Return orientated programing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Return orientated programing"
+            }
+          },
+          {
+            "id": "ccad467c2bdc10cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Tools.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tools"
+            }
+          },
+          {
+            "id": "95ba435258bc2c5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Packing/Unpacking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unpacking"
+            }
+          },
+          {
+            "id": "4f8adfa556289548",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Packing/Identifying a packed sample.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Identifying a packed sample"
+            }
+          },
+          {
+            "id": "730590b347c02c78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Tools.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tools"
+            }
+          }
+        ],
+        "currentTab": 10
+      },
+      {
+        "id": "14596d534dddd429",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "edce979fbed7f77c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shellcode/Address space layout randomization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Address space layout randomization"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "beac1cb0a257abe0",
+    "type": "split",
+    "children": [
+      {
+        "id": "26a7a4a80d3c57bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adbf63683968afc9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8683507b06c8683b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "12b1e966bf4e3278",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "09930f1243ae01f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2efbc280442bf01e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb6db6deb9e2829d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Shellcode/Address space layout randomization.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Address space layout randomization"
+            }
+          },
+          {
+            "id": "6b008968fb5cdd8d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Shellcode/Address space layout randomization.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Address space layout randomization"
+            }
+          },
+          {
+            "id": "52626273568b17e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f6579f10211412c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Shellcode/Address space layout randomization.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Address space layout randomization"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "edce979fbed7f77c",
+  "lastOpenFiles": [
+    "Shellcode/Exploits.md",
+    "Untitled 1.canvas",
+    "2024-10-20.md",
+    "Untitled.canvas",
+    "Scripts/JavaScript/JavaScript MA techniques.md",
+    "Scripts/VBScript.md",
+    "Shellcode/Linux Shellcode.md",
+    "Shellcode/Address space layout randomization.md",
+    "Operating Systems/Linux/Linux Syscalls/Process Management - Syscalls.md",
+    "Operating Systems/Linux/Linux Syscalls/Network - Syscalls.md",
+    "Operating Systems/Linux/Linux Syscalls/Linux Syscalls.md",
+    "API Hooking/API Hooking with Trampoline.md",
+    "API Hooking/Inline Hooking.md",
+    "Packing/Common Packers/ASPack.md",
+    "Packing/Common Packers/Petite.md",
+    "Packing/Common Packers/UPX.md",
+    "Packing/Identifying a packed sample.md",
+    "Packing/The tail jump.md",
+    "API Hooking/API Hooking - Length Disasembler.md",
+    "Behavioural Patterns/Linux/Persistence.md",
+    "Behavioural Patterns/Linux/Initial Delivery and Lateral Movement.md",
+    "Behavioural Patterns/Linux/Command and Control.md",
+    "Assembly/x86 Registers.md",
+    "Assembly/Stack.md",
+    "Assembly/Registers.md",
+    "Assembly/Operations.md",
+    "Assembly/Memory.md",
+    "Untitled 1",
+    "C Language",
+    "Images/Pasted image 20240912235204.png",
+    "Images/Pasted image 20240912235232.png",
+    "Images/Pasted image 20240915124617.png",
+    "Images/Pasted image 20240915124410.png",
+    "Images/Pasted image 20240915124308.png",
+    "Images/Pasted image 20240915124144.png",
+    "Images/Pasted image 20240915114133.png",
+    "Packing/Common Packers",
+    "Images/Pasted image 20240913004800.png",
+    "Images/Pasted image 20240913001518.png",
+    "Images/Pasted image 20240913001157.png",
+    "Assembly",
+    "Behavioural Patterns/Linux",
+    "Behavioural Patterns",
+    "Anti - Debugging/Linux",
+    "Operating Systems/Linux/Linux Syscalls",
+    "Scripts/JavaScript",
+    "Scripts/Powershell"
+  ]
+}

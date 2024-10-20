@@ -1,0 +1,1 @@
+user-mode rootkits that inject themselves into other processes and hook their APIs to hide

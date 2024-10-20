@@ -1,0 +1,1 @@
+This group of threats targets firmware (such as UEFI or BIOS)

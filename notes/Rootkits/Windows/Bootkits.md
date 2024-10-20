@@ -1,0 +1,1 @@
+**Bootkits** are rootkits that modify the **boot sector**. They are used to load malicious files before the OS even boots

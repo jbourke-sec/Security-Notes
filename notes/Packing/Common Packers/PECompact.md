@@ -1,0 +1,2 @@
+Programs packed with this packer can be difficult to unpack, because it
+includes anti-debugging exceptions and obfuscated code. PECompact has a plug-in framework that allows third-party tools to be incorporated, and malware authors often include third-party tools that make unpacking even more difficult.
