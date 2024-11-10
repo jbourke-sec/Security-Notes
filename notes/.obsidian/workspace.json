@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kernel/EPROCESS and ETHREAD.md",
+                "file": "Malware_Analysis/Kernel/EPROCESS and ETHREAD.md",
                 "mode": "source",
                 "source": false
               },
@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Injection/Windows/Windows support DLL injection.md",
+                "file": "Malware_Analysis/Code Injection/Windows/Windows support DLL injection.md",
                 "mode": "source",
                 "source": false
               },
@@ -42,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Tools.md",
+                "file": "Malware_Analysis/Tools/Tools.md",
                 "mode": "source",
                 "source": false
               },
@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architectures/Assembly calling conventions.md",
+                "file": "Malware_Analysis/Architectures/Assembly calling conventions.md",
                 "mode": "source",
                 "source": false
               },
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File,Memory Structures/Windows/PE Header structure.md",
+                "file": "Malware_Analysis/File,Memory Structures/Windows/PE Header structure.md",
                 "mode": "source",
                 "source": false
               },
@@ -84,7 +84,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Windows/Static and Dynamic linking.md",
+                "file": "Malware_Analysis/Operating Systems/Windows/Static and Dynamic linking.md",
                 "mode": "source",
                 "source": false
               },
@@ -98,7 +98,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libraries/Libraries relevant to MA.md",
+                "file": "Malware_Analysis/Libraries/Libraries relevant to MA.md",
                 "mode": "source",
                 "source": false
               },
@@ -112,7 +112,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Behavioural Patterns/Linux/Persistence.md",
+                "file": "Malware_Analysis/Behavioural Patterns/Linux/Persistence.md",
                 "mode": "source",
                 "source": false
               },
@@ -126,7 +126,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anti - Debugging/WIndows/Debugger Detection.md",
+                "file": "Malware_Analysis/Anti - Debugging/WIndows/Debugger Detection.md",
                 "mode": "source",
                 "source": false
               },
@@ -140,7 +140,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encryption/RC4 Encryption.md",
+                "file": "Malware_Analysis/Encryption/RC4 Encryption.md",
                 "mode": "source",
                 "source": false
               },
@@ -154,12 +154,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assembly/Global Vs Local Variables.md",
+                "file": "2024-11-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Global Vs Local Variables"
+              "title": "2024-11-10"
             }
           },
           {
@@ -168,7 +168,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File,Memory Structures/Windows/Data structures.md",
+                "file": "Malware_Analysis/File,Memory Structures/Windows/Data structures.md",
                 "mode": "source",
                 "source": false
               },
@@ -182,7 +182,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File,Memory Structures/Windows/Process Loading.md",
+                "file": "Malware_Analysis/File,Memory Structures/Windows/Process Loading.md",
                 "mode": "source",
                 "source": false
               },
@@ -196,7 +196,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File,Memory Structures/Windows/PE File loading.md",
+                "file": "Malware_Analysis/File,Memory Structures/Windows/PE File loading.md",
                 "mode": "source",
                 "source": false
               },
@@ -210,7 +210,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Tools.md",
+                "file": "Malware_Analysis/Tools/Tools.md",
                 "mode": "source",
                 "source": false
               },
@@ -224,7 +224,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic analysis/Breakpoints.md",
+                "file": "Malware_Analysis/Dynamic analysis/Breakpoints.md",
                 "mode": "source",
                 "source": false
               },
@@ -238,7 +238,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic analysis/Modifying program execution.md",
+                "file": "Malware_Analysis/Dynamic analysis/Modifying program execution.md",
                 "mode": "source",
                 "source": false
               },
@@ -252,7 +252,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Windows/Services.md",
+                "file": "Malware_Analysis/Operating Systems/Windows/Services.md",
                 "mode": "source",
                 "source": false
               },
@@ -266,7 +266,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Packing/Identifying a packed sample.md",
+                "file": "Malware_Analysis/Packing/Identifying a packed sample.md",
                 "mode": "source",
                 "source": false
               },
@@ -280,7 +280,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architectures/Assembly calling conventions.md",
+                "file": "Malware_Analysis/Architectures/Assembly calling conventions.md",
                 "mode": "source",
                 "source": false
               },
@@ -294,7 +294,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encryption/RC4 Encryption.md",
+                "file": "Malware_Analysis/Encryption/RC4 Encryption.md",
                 "mode": "source",
                 "source": false
               },
@@ -308,7 +308,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encryption/Cryptographic service provider.md",
+                "file": "Malware_Analysis/Encryption/Cryptographic service provider.md",
                 "mode": "source",
                 "source": false
               },
@@ -322,7 +322,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encryption/Cryptographic service provider.md",
+                "file": "Malware_Analysis/Encryption/Cryptographic service provider.md",
                 "mode": "source",
                 "source": false
               },
@@ -336,7 +336,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encryption/Cryptographic service provider.md",
+                "file": "Malware_Analysis/Encryption/Cryptographic service provider.md",
                 "mode": "source",
                 "source": false
               },
@@ -350,7 +350,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anti - Debugging/WIndows/Debugging code injection.md",
+                "file": "Malware_Analysis/Anti - Debugging/WIndows/Debugging code injection.md",
                 "mode": "source",
                 "source": false
               },
@@ -364,7 +364,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Tools.md",
+                "file": "Malware_Analysis/Tools/Tools.md",
                 "mode": "source",
                 "source": false
               },
@@ -378,7 +378,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API Hooking/API Hooking.md",
+                "file": "Malware_Analysis/API Hooking/API Hooking.md",
                 "mode": "source",
                 "source": false
               },
@@ -392,7 +392,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anti - Debugging/WIndows/Debugger Detection.md",
+                "file": "Malware_Analysis/Anti - Debugging/WIndows/Debugger Detection.md",
                 "mode": "source",
                 "source": false
               },
@@ -406,7 +406,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Tools.md",
+                "file": "Malware_Analysis/Tools/Tools.md",
                 "mode": "source",
                 "source": false
               },
@@ -420,7 +420,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anti - Debugging/WIndows/Debugger Detection.md",
+                "file": "Malware_Analysis/Anti - Debugging/WIndows/Debugger Detection.md",
                 "mode": "source",
                 "source": false
               },
@@ -434,7 +434,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anti - Debugging/WIndows/VM Detection.md",
+                "file": "Malware_Analysis/Anti - Debugging/WIndows/VM Detection.md",
                 "mode": "source",
                 "source": false
               },
@@ -448,7 +448,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File,Memory Structures/Windows/Process Loading.md",
+                "file": "Malware_Analysis/File,Memory Structures/Windows/Process Loading.md",
                 "mode": "source",
                 "source": false
               },
@@ -462,7 +462,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anti - Debugging/WIndows/Escaping the debugger.md",
+                "file": "Malware_Analysis/Anti - Debugging/WIndows/Escaping the debugger.md",
                 "mode": "source",
                 "source": false
               },
@@ -476,7 +476,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Windows/Windows Infrastructure.md",
+                "file": "Malware_Analysis/Operating Systems/Windows/Windows Infrastructure.md",
                 "mode": "source",
                 "source": false
               },
@@ -490,7 +490,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kernel/User Mode.md",
+                "file": "Malware_Analysis/Kernel/User Mode.md",
                 "mode": "source",
                 "source": false
               },
@@ -504,7 +504,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kernel/Kernel Mode.md",
+                "file": "Malware_Analysis/Kernel/Kernel Mode.md",
                 "mode": "source",
                 "source": false
               },
@@ -518,7 +518,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File,Memory Structures/Windows/PE Header structure.md",
+                "file": "Malware_Analysis/File,Memory Structures/Windows/PE Header structure.md",
                 "mode": "source",
                 "source": false
               },
@@ -532,7 +532,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Office/Office File structures.md",
+                "file": "Malware_Analysis/Office/Office File structures.md",
                 "mode": "source",
                 "source": false
               },
@@ -546,7 +546,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Tools.md",
+                "file": "Malware_Analysis/Tools/Tools.md",
                 "mode": "source",
                 "source": false
               },
@@ -560,7 +560,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Tools - Linux.md",
+                "file": "Malware_Analysis/Tools/Tools - Linux.md",
                 "mode": "source",
                 "source": false
               },
@@ -574,7 +574,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Tools - Linux.md",
+                "file": "Malware_Analysis/Tools/Tools - Linux.md",
                 "mode": "source",
                 "source": false
               },
@@ -588,7 +588,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Tools - Linux.md",
+                "file": "Malware_Analysis/Tools/Tools - Linux.md",
                 "mode": "source",
                 "source": false
               },
@@ -602,7 +602,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rootkits/Windows/Potential Kernel Rootkits.md",
+                "file": "Malware_Analysis/Rootkits/Windows/Potential Kernel Rootkits.md",
                 "mode": "source",
                 "source": false
               },
@@ -616,7 +616,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kernel/EPROCESS and ETHREAD.md",
+                "file": "Malware_Analysis/Kernel/EPROCESS and ETHREAD.md",
                 "mode": "source",
                 "source": false
               },
@@ -630,7 +630,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kernel/Bypassing patchguard.md",
+                "file": "Malware_Analysis/Kernel/Bypassing patchguard.md",
                 "mode": "source",
                 "source": false
               },
@@ -644,7 +644,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Tools.md",
+                "file": "Malware_Analysis/Tools/Tools.md",
                 "mode": "source",
                 "source": false
               },
@@ -658,7 +658,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File,Memory Structures/Windows/Data structures.md",
+                "file": "Malware_Analysis/File,Memory Structures/Windows/Data structures.md",
                 "mode": "source",
                 "source": false
               },
@@ -672,7 +672,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shellcode/Exploits.md",
+                "file": "Malware_Analysis/Shellcode/Exploits.md",
                 "mode": "source",
                 "source": false
               },
@@ -686,7 +686,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shellcode/Linux Shellcode.md",
+                "file": "Malware_Analysis/Shellcode/Linux Shellcode.md",
                 "mode": "source",
                 "source": false
               },
@@ -700,7 +700,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kernel/Bypassing patchguard.md",
+                "file": "Malware_Analysis/Kernel/Bypassing patchguard.md",
                 "mode": "source",
                 "source": false
               },
@@ -714,7 +714,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Windows/Data execution prevention.md",
+                "file": "Malware_Analysis/Operating Systems/Windows/Data execution prevention.md",
                 "mode": "source",
                 "source": false
               },
@@ -728,7 +728,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shellcode/Return orientated programing.md",
+                "file": "Malware_Analysis/Shellcode/Return orientated programing.md",
                 "mode": "source",
                 "source": false
               },
@@ -742,7 +742,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Tools.md",
+                "file": "Malware_Analysis/Tools/Tools.md",
                 "mode": "source",
                 "source": false
               },
@@ -756,7 +756,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Packing/Unpacking.md",
+                "file": "Malware_Analysis/Packing/Unpacking.md",
                 "mode": "source",
                 "source": false
               },
@@ -770,7 +770,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Packing/Identifying a packed sample.md",
+                "file": "Malware_Analysis/Packing/Identifying a packed sample.md",
                 "mode": "source",
                 "source": false
               },
@@ -784,7 +784,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Tools.md",
+                "file": "Malware_Analysis/Tools/Tools.md",
                 "mode": "source",
                 "source": false
               },
@@ -806,12 +806,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shellcode/Address space layout randomization.md",
+                "file": "Detection_Engineering/Lateral Movement/Unix/SSH Hijacking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Address space layout randomization"
+              "title": "SSH Hijacking"
             }
           }
         ]
@@ -870,7 +870,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "09930f1243ae01f7",
@@ -886,7 +887,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shellcode/Address space layout randomization.md",
+                "file": "Detection_Engineering/Lateral Movement/Exploitation of Remote Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -896,7 +897,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Address space layout randomization"
+              "title": "Backlinks for Exploitation of Remote Services"
             }
           },
           {
@@ -905,12 +906,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shellcode/Address space layout randomization.md",
+                "file": "Detection_Engineering/Lateral Movement/Exploitation of Remote Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Address space layout randomization"
+              "title": "Outgoing links from Exploitation of Remote Services"
             }
           },
           {
@@ -932,10 +933,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shellcode/Address space layout randomization.md"
+                "file": "Detection_Engineering/Lateral Movement/Exploitation of Remote Services.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Address space layout randomization"
+              "title": "Outline of Exploitation of Remote Services"
             }
           }
         ]
@@ -955,54 +956,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edce979fbed7f77c",
+  "active": "fff4993058bf7bfe",
   "lastOpenFiles": [
-    "Shellcode/Exploits.md",
-    "Untitled 1.canvas",
-    "2024-10-20.md",
     "Untitled.canvas",
-    "Scripts/JavaScript/JavaScript MA techniques.md",
-    "Scripts/VBScript.md",
-    "Shellcode/Linux Shellcode.md",
-    "Shellcode/Address space layout randomization.md",
-    "Operating Systems/Linux/Linux Syscalls/Process Management - Syscalls.md",
-    "Operating Systems/Linux/Linux Syscalls/Network - Syscalls.md",
-    "Operating Systems/Linux/Linux Syscalls/Linux Syscalls.md",
-    "API Hooking/API Hooking with Trampoline.md",
-    "API Hooking/Inline Hooking.md",
-    "Packing/Common Packers/ASPack.md",
-    "Packing/Common Packers/Petite.md",
-    "Packing/Common Packers/UPX.md",
-    "Packing/Identifying a packed sample.md",
-    "Packing/The tail jump.md",
-    "API Hooking/API Hooking - Length Disasembler.md",
-    "Behavioural Patterns/Linux/Persistence.md",
-    "Behavioural Patterns/Linux/Initial Delivery and Lateral Movement.md",
-    "Behavioural Patterns/Linux/Command and Control.md",
-    "Assembly/x86 Registers.md",
-    "Assembly/Stack.md",
-    "Assembly/Registers.md",
-    "Assembly/Operations.md",
-    "Assembly/Memory.md",
-    "Untitled 1",
-    "C Language",
-    "Images/Pasted image 20240912235204.png",
-    "Images/Pasted image 20240912235232.png",
-    "Images/Pasted image 20240915124617.png",
-    "Images/Pasted image 20240915124410.png",
-    "Images/Pasted image 20240915124308.png",
-    "Images/Pasted image 20240915124144.png",
-    "Images/Pasted image 20240915114133.png",
-    "Packing/Common Packers",
-    "Images/Pasted image 20240913004800.png",
-    "Images/Pasted image 20240913001518.png",
-    "Images/Pasted image 20240913001157.png",
-    "Assembly",
-    "Behavioural Patterns/Linux",
-    "Behavioural Patterns",
-    "Anti - Debugging/Linux",
-    "Operating Systems/Linux/Linux Syscalls",
-    "Scripts/JavaScript",
-    "Scripts/Powershell"
+    "2024-11-10.md",
+    "Malware_Analysis/Tools/Tools.md",
+    "Malware_Analysis/Anti - Debugging/WIndows/Escaping the debugger.md",
+    "Malware_Analysis/Anti - Debugging/WIndows/Structured Event Handling.md",
+    "Malware_Analysis/Code Injection/Windows/DLL Injection.md",
+    "Malware_Analysis/Code Injection/Windows/Advanced Reflective DLL Injection.md",
+    "Malware_Analysis/Kernel/Kernel Mode.md",
+    "Malware_Analysis/Kernel/Kernel Hooking.md",
+    "Malware_Analysis/Kernel/EPROCESS and ETHREAD.md",
+    "Malware_Analysis/Scripts/JavaScript/JavaScript MA techniques.md",
+    "Malware_Analysis/Scripts/JavaScript/Commands.md",
+    "Malware_Analysis/Scripts/Powershell/Cmdlets.md",
+    "Malware_Analysis/Scripts/Powershell/Encryption.md",
+    "Detection_Engineering/Lateral Movement/Exploitation of Remote Services.md",
+    "Detection_Engineering/Credential Access/Unix/RC Scripts.md",
+    "Detection_Engineering/Credential Access/MacOs/Depreceated/Startup Items.md",
+    "Detection_Engineering/Credential Access/MacOs/Depreceated/Login Hooks.md",
+    "Detection_Engineering/Credential Access/Windows/Network Logon Script.md",
+    "Detection_Engineering/Credential Access/Windows/Authentication Package.md",
+    "Malware_Analysis/Assembly/Global Vs Local Variables.md",
+    "Detection_Engineering/Lateral Movement/Unix/SSH Hijacking.md",
+    "Detection_Engineering/Lateral Movement/Windows/RDP Hijacking.md",
+    "Detection_Engineering/Lateral Movement/Unix",
+    "Detection_Engineering/Lateral Movement/Windows",
+    "Detection_Engineering/Credential Access/Windows/LSASS Driver.md",
+    "Detection_Engineering/Lateral Movement",
+    "Detection_Engineering/Credential Access/Windows/Registry Run Keys_Startup Folder.md",
+    "Detection_Engineering/Credential Access/Windows/UserInitMprLogonScript Registry key.md",
+    "Detection_Engineering/Credential Access/MacOs/Depreceated",
+    "Detection_Engineering/Credential Access/MacOs",
+    "Detection_Engineering/Credential Access/Windows",
+    "Detection_Engineering/Credential Access/Unix",
+    "Detection_Engineering/Credential Access",
+    "Detection_Engineering",
+    "Malware_Analysis",
+    "Untitled 1.canvas",
+    "Malware_Analysis/Images/Pasted image 20240912235204.png",
+    "Malware_Analysis/Images/Pasted image 20240912235232.png",
+    "Malware_Analysis/Images/Pasted image 20240915124617.png",
+    "Malware_Analysis/Images/Pasted image 20240915124410.png",
+    "Malware_Analysis/Images/Pasted image 20240915124308.png",
+    "Malware_Analysis/Images/Pasted image 20240915124144.png",
+    "Malware_Analysis/Images/Pasted image 20240915114133.png",
+    "Malware_Analysis/Images/Pasted image 20240913004800.png",
+    "Malware_Analysis/Images/Pasted image 20240913001518.png",
+    "Malware_Analysis/Images/Pasted image 20240913001157.png"
   ]
 }

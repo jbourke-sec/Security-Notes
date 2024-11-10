@@ -1,0 +1,3 @@
+Adversaries can add or insert a path to a malicious script in the `com.apple.loginwindow.plist` file, using the `LoginHook` or `LogoutHook` key-value pair. The malicious script is executed upon the next user login. If a login hook already exists, adversaries can add additional commands to an existing login hook. There can be only one login and logout hook on a system at a time.
+
+**Note:** Login hooks were deprecated in 10.11 version of macOS in favor of Launch Daemon and Launch Agent
