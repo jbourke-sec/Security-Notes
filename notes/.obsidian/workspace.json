@@ -54,14 +54,10 @@
             "id": "b67ea48437fa42a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Malware_Analysis/Architectures/Assembly calling conventions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Assembly calling conventions"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -121,20 +117,6 @@
             }
           },
           {
-            "id": "070f413136df8757",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Malware_Analysis/Anti - Debugging/WIndows/Debugger Detection.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Debugger Detection"
-            }
-          },
-          {
             "id": "75e5b0a9af114850",
             "type": "leaf",
             "state": {
@@ -149,17 +131,15 @@
             }
           },
           {
-            "id": "fff4993058bf7bfe",
+            "id": "6e7045e07b6dec86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "2024-11-10.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.7.6"
               },
               "icon": "lucide-file",
-              "title": "2024-11-10"
+              "title": "Release Notes 1.7.6"
             }
           },
           {
@@ -182,26 +162,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Malware_Analysis/File,Memory Structures/Windows/Process Loading.md",
+                "file": "Malware_Analysis/File,Memory Structures/IOS/iOS app store packages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Process Loading"
-            }
-          },
-          {
-            "id": "a1c9b5b4628decc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Malware_Analysis/File,Memory Structures/Windows/PE File loading.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PE File loading"
+              "title": "iOS app store packages"
             }
           },
           {
@@ -793,7 +759,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       },
       {
         "id": "14596d534dddd429",
@@ -806,12 +772,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Detection_Engineering/Lateral Movement/Unix/SSH Hijacking.md",
+                "file": "Malware_Analysis/Libraries/Windows/File System Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSH Hijacking"
+              "title": "File System Functions"
             }
           }
         ]
@@ -870,8 +836,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "09930f1243ae01f7",
@@ -956,54 +921,56 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fff4993058bf7bfe",
+  "active": "2459cf9e0c592476",
   "lastOpenFiles": [
+    "Malware_Analysis/Tools/Tools - MacOs.md",
+    "Malware_Analysis/File,Memory Structures/IOS/iOS app store packages.md",
+    "Malware_Analysis/File,Memory Structures/IOS",
+    "Malware_Analysis/File,Memory Structures/MacOs/Apple disk images.md",
+    "Malware_Analysis/File,Memory Structures/MacOs/Installer packages.md",
+    "Malware_Analysis/File,Memory Structures/Windows/Process Loading.md",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
     "Untitled.canvas",
+    "Malware_Analysis/Images/Pasted image 20241123220444.png",
+    "Malware_Analysis/Images/Pasted image 20241123215544.png",
+    "Malware_Analysis/File,Memory Structures/MacOs/Application bundles.md",
+    "Malware_Analysis/File,Memory Structures/MacOs/Mach-O.md",
+    "Malware_Analysis/Images/Pasted image 20241123215024.png",
+    "Malware_Analysis/Operating Systems/MacOs/Application Control/Application security.md",
+    "Malware_Analysis/File,Memory Structures/MacOs",
+    "Malware_Analysis/Operating Systems/MacOs/Encryption.md",
+    "Malware_Analysis/Office/Office File structures.md",
+    "Malware_Analysis/Office/Office Macros.md",
+    "Malware_Analysis/Operating Systems/MacOs/Application Control/App Sandbox.md",
+    "Malware_Analysis/Operating Systems/MacOs/Application Control/Gatekeeper.md",
+    "Malware_Analysis/Operating Systems/MacOs/File System.md",
+    "Malware_Analysis/Operating Systems/MacOs/Application Control",
+    "Malware_Analysis/Office/Office File Static Analysis.md",
+    "Malware_Analysis/Libraries/MacOs/Native API.md",
+    "Malware_Analysis/Operating Systems/MacOs/System Integrity Protection.md",
+    "Malware_Analysis/Operating Systems/MacOs/Security policies.md",
+    "Malware_Analysis/File,Memory Structures/Windows/PE File loading.md",
+    "Malware_Analysis/Libraries/Windows/File System Functions.md",
+    "Malware_Analysis/Libraries/MacOs",
+    "Malware_Analysis/Libraries/MacOs/Native API",
+    "Malware_Analysis/Operating Systems/MacOs/Introduction.md",
+    "Malware_Analysis/Libraries/Windows",
+    "Malware_Analysis/Operating Systems/MacOs",
+    "2024-11-22.md",
+    "Malware_Analysis/Architectures/Assembly calling conventions.md",
+    "Detection_Engineering/Lateral Movement/Unix/SSH Hijacking.md",
     "2024-11-10.md",
     "Malware_Analysis/Tools/Tools.md",
-    "Malware_Analysis/Anti - Debugging/WIndows/Escaping the debugger.md",
-    "Malware_Analysis/Anti - Debugging/WIndows/Structured Event Handling.md",
-    "Malware_Analysis/Code Injection/Windows/DLL Injection.md",
-    "Malware_Analysis/Code Injection/Windows/Advanced Reflective DLL Injection.md",
-    "Malware_Analysis/Kernel/Kernel Mode.md",
-    "Malware_Analysis/Kernel/Kernel Hooking.md",
-    "Malware_Analysis/Kernel/EPROCESS and ETHREAD.md",
-    "Malware_Analysis/Scripts/JavaScript/JavaScript MA techniques.md",
-    "Malware_Analysis/Scripts/JavaScript/Commands.md",
-    "Malware_Analysis/Scripts/Powershell/Cmdlets.md",
-    "Malware_Analysis/Scripts/Powershell/Encryption.md",
-    "Detection_Engineering/Lateral Movement/Exploitation of Remote Services.md",
-    "Detection_Engineering/Credential Access/Unix/RC Scripts.md",
-    "Detection_Engineering/Credential Access/MacOs/Depreceated/Startup Items.md",
-    "Detection_Engineering/Credential Access/MacOs/Depreceated/Login Hooks.md",
-    "Detection_Engineering/Credential Access/Windows/Network Logon Script.md",
-    "Detection_Engineering/Credential Access/Windows/Authentication Package.md",
-    "Malware_Analysis/Assembly/Global Vs Local Variables.md",
-    "Detection_Engineering/Lateral Movement/Unix/SSH Hijacking.md",
-    "Detection_Engineering/Lateral Movement/Windows/RDP Hijacking.md",
     "Detection_Engineering/Lateral Movement/Unix",
     "Detection_Engineering/Lateral Movement/Windows",
-    "Detection_Engineering/Credential Access/Windows/LSASS Driver.md",
     "Detection_Engineering/Lateral Movement",
-    "Detection_Engineering/Credential Access/Windows/Registry Run Keys_Startup Folder.md",
-    "Detection_Engineering/Credential Access/Windows/UserInitMprLogonScript Registry key.md",
-    "Detection_Engineering/Credential Access/MacOs/Depreceated",
-    "Detection_Engineering/Credential Access/MacOs",
-    "Detection_Engineering/Credential Access/Windows",
-    "Detection_Engineering/Credential Access/Unix",
-    "Detection_Engineering/Credential Access",
-    "Detection_Engineering",
-    "Malware_Analysis",
-    "Untitled 1.canvas",
     "Malware_Analysis/Images/Pasted image 20240912235204.png",
     "Malware_Analysis/Images/Pasted image 20240912235232.png",
     "Malware_Analysis/Images/Pasted image 20240915124617.png",
     "Malware_Analysis/Images/Pasted image 20240915124410.png",
     "Malware_Analysis/Images/Pasted image 20240915124308.png",
     "Malware_Analysis/Images/Pasted image 20240915124144.png",
-    "Malware_Analysis/Images/Pasted image 20240915114133.png",
-    "Malware_Analysis/Images/Pasted image 20240913004800.png",
-    "Malware_Analysis/Images/Pasted image 20240913001518.png",
-    "Malware_Analysis/Images/Pasted image 20240913001157.png"
+    "Malware_Analysis/Images/Pasted image 20240915114133.png"
   ]
 }
